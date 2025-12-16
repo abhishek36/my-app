@@ -9,6 +9,7 @@ const Navigation = () => {
         padding: "10px",
         backgroundColor: "blue",
       }}
+      className=" font-poppins font-bold text-3xl"
     >
       <Link href="/">Home</Link>
       <Link href="/about">About</Link>
